@@ -1,0 +1,207 @@
+D:\Учёба\ОАиП\Helper студента\Проект 1.0\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 1.0\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.0\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.0\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.0\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.0\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.0\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.0\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.2\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 1.2\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.2\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.2\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.2\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.2\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.2\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.2\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.2\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.3\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 1.3\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.3\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.3\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.3\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.3\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.3\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.3\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.3\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.3\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.4\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 1.4\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.4\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.4\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.4\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.4\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.4\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.4\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.4\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.4\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.5\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 1.5\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.5\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.5\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.5\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.5\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.5\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.5\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.5\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.5\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.6\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 1.6\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.6\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.6\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.6\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.6\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.6\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.6\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.6\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.6\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.7\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 1.7\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.7\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.7\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.7\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.7\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.7\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.7\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.7\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.7\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.8\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 1.8\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.8\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.8\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.8\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.8\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.8\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.8\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.8\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.8\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.9\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 1.9\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.9\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.9\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.9\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.9\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.9\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 1.9\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.9\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 1.9\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.0\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 2.0\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.0\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.0\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.0\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.0\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.0\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.0\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.0\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.0\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.1\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.2\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.3\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.4\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.5\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.6\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.7.1\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\obj\Debug\Проект_1._0.ResultFormTest.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.8\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\bin\Debug\Проект 1.0.exe.config
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\bin\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\bin\Debug\Проект 1.0.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\obj\Debug\Проект 1.0.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\obj\Debug\Проект_1._0.ResultFormTest.resources
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\obj\Debug\Проект 1.0.csproj.GenerateResource.Cache
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\Учёба\ОАиП\Helper студента\Проект 2.9\Проект 1.0\obj\Debug\Проект 1.0.pdb

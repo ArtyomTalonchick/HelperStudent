@@ -1,0 +1,5 @@
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\LibrarySubject\bin\Debug\LibrarySubject.dll
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\LibrarySubject\bin\Debug\LibrarySubject.pdb
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\LibrarySubject\obj\Debug\LibrarySubject.csprojResolveAssemblyReference.cache
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\LibrarySubject\obj\Debug\LibrarySubject.dll
+D:\Учёба\ОАиП\Helper студента\Проект 1.1\LibrarySubject\obj\Debug\LibrarySubject.pdb
