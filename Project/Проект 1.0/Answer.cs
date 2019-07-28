@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Проект_1._0
+namespace OurProject._0
 {
     public partial class Helper
     {        
@@ -131,30 +131,30 @@ namespace Проект_1._0
                 if (OurAnswer == RightAnswer[OrderQuestions[NumberAnswer]])
                 {
                     NumberRigtAnswer++;
-                    Mark.ForeColor = Color.Lime;
+                    Mark.ForeColor = Color.LimeGreen;
                     Mark.Text = "Правильно!";
                 }
                 else
                 {
-                    Mark.ForeColor = Color.Red;
+                    Mark.ForeColor = Color.Firebrick;
                     Mark.Text = "Ошибка!!!";
                     switch (OurAnswer)
                     {
                         case 1:
                             if (Answer1.Enabled == false)
-                                Answer1.BackColor = Color.Red;
+                                Answer1.BackColor = Color.Firebrick;
                             break;
                         case 2:
                             if (Answer2.Enabled == false)
-                                Answer2.BackColor = Color.Red;
+                                Answer2.BackColor = Color.Firebrick;
                             break;
                         case 3:
                             if (Answer3.Enabled == false)
-                                Answer3.BackColor = Color.Red;
+                                Answer3.BackColor = Color.Firebrick;
                             break;
                         case 4:
                             if (Answer4.Enabled == false)
-                                Answer4.BackColor = Color.Red;
+                                Answer4.BackColor = Color.Firebrick;
                             break;
                     }
                 }
@@ -162,19 +162,19 @@ namespace Проект_1._0
                 {
                     case 1:
                         if (Answer1.Enabled == false)
-                            Answer1.BackColor = Color.Lime;
+                            Answer1.BackColor = Color.LimeGreen;
                         break;
                     case 2:
                         if (Answer2.Enabled == false)
-                            Answer2.BackColor = Color.Lime;
+                            Answer2.BackColor = Color.LimeGreen;
                         break;
                     case 3:
                         if (Answer3.Enabled == false)
-                            Answer3.BackColor = Color.Lime;
+                            Answer3.BackColor = Color.LimeGreen;
                         break;
                     case 4:
                         if (Answer4.Enabled == false)
-                            Answer4.BackColor = Color.Lime;
+                            Answer4.BackColor = Color.LimeGreen;
                         break;
                 }
 

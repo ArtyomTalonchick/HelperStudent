@@ -1,0 +1,107 @@
+//---------------------------------------------------------------------------
+
+#include <windows.h>
+#include <iostream>
+using namespace std;
+
+//---------------------------------------------------------------------------
+//   Important note about DLL memory management when your DLL uses the
+//   static version of the RunTime Library:
+//
+//   If your DLL exports any functions that pass String objects (or structs/
+//   classes containing nested Strings) as parameter or function results,
+//   you will need to add the library MEMMGR.LIB to both the DLL project and
+//   any other projects that use the DLL.  You will also need to use MEMMGR.LIB
+//   if any other projects which use the DLL will be performing new or delete
+//   operations on any non-TObject-derived classes which are exported from the
+//   DLL. Adding MEMMGR.LIB to your project will change the DLL and its calling
+//   EXE's to use the BORLNDMM.DLL as their memory manager.  In these cases,
+//   the file BORLNDMM.DLL should be deployed along with your DLL.
+//
+//   To avoid using BORLNDMM.DLL, pass string information using "char *" or
+//   ShortString parameters.
+//
+//   If your DLL uses the dynamic version of the RTL, you do not need to
+//   explicitly add MEMMGR.LIB as this will be done implicitly for you
+//---------------------------------------------------------------------------
+
+#pragma argsused
+int WINAPI DllEntryPoint(HINSTANCE hinst, unsigned long reason, void* lpReserved)
+{
+	return 1;
+}
+
+extern "C" __declspec(dllexport) char* TableKeliForSum(int m)
+{
+	if(m <= 0) return "¬ходные данные должны быть положительными";
+	string str;
+	int **a = new int*[m];
+	for(int i = 0; i < m; i++)
+		a[i] = new int[m];
+	for(int i = 0; i < m; i++)
+		for(int j = 0; j < m; j++)
+			a[i][j] = (i+j)%m;
+	for(int i = 0; i < m; i++)
+	{
+		for(int j = 0; j < m; j++)
+		{
+			char temp[100];
+			itoa(a[i][j], temp, 10);
+			str += temp;
+			str += '\t';
+		}
+		str += '\n';
+	}
+	str += '\n';
+	char *p = new char[str.length()+1];
+	for(int i = 0; i < str.length(); i++)
+		p[i] = str[i];
+	p[str.length()] = '\0';
+	return p;
+}
+
+extern "C" __declspec(dllexport) char* TableKeliForMultiplication(int m)
+{
+	if(m <= 0) return "¬ходные данные должны быть положительными";
+	string str;
+	int **a = new int*[m];
+	for(int i = 0; i < m; i++)
+		a[i] = new int[m];
+	for(int i = 0; i < m; i++)
+		for(int j = 0; j < m; j++)
+			a[i][j] = (i*j)%m;
+	for(int i = 0; i < m; i++)
+	{
+		for(int j = 0; j < m; j++)
+		{
+			char temp[100];
+			itoa(a[i][j], temp, 10);
+			str += temp;
+			str += '\t';
+		}
+		str += '\n';
+	}
+	str += '\n';
+	for(int i = 0; i < m; i++)
+	for(int j = 0; j < m; j++)
+	{
+		if(a[i][j] == 1)
+		{
+			char temp[100];
+			itoa(i, temp,10);
+			str +=  temp;
+			str += "(-1)=";
+			itoa(j, temp, 10);
+			str +=  temp;
+			str += ' ';
+		}
+	}
+	char *p = new char[str.length()+1];
+	for(int i = 0; i < str.length(); i++)
+		p[i] = str[i];
+	p[str.length()] = '\0';
+	return p;
+}
+
+//---------------------------------------------------------------------------
+

@@ -1,0 +1,225 @@
+//---------------------------------------------------------------------------
+
+#include <windows.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <math.h>
+#include <string.h>
+using namespace std;
+//---------------------------------------------------------------------------
+//   Important note about DLL memory management when your DLL uses the
+//   static version of the RunTime Library:
+//
+//   If your DLL exports any functions that pass String objects (or structs/
+//   classes containing nested Strings) as parameter or function results,
+//   you will need to add the library MEMMGR.LIB to both the DLL project and
+//   any other projects that use the DLL.  You will also need to use MEMMGR.LIB
+//   if any other projects which use the DLL will be performing new or delete
+//   operations on any non-TObject-derived classes which are exported from the
+//   DLL. Adding MEMMGR.LIB to your project will change the DLL and its calling
+//   EXE's to use the BORLNDMM.DLL as their memory manager.  In these cases,
+//   the file BORLNDMM.DLL should be deployed along with your DLL.
+//
+//   To avoid using BORLNDMM.DLL, pass string information using "char *" or
+//   ShortString parameters.
+//
+//   If your DLL uses the dynamic version of the RTL, you do not need to
+//   explicitly add MEMMGR.LIB as this will be done implicitly for you
+//---------------------------------------------------------------------------
+
+#pragma argsused
+int WINAPI DllEntryPoint(HINSTANCE hinst, unsigned long reason, void* lpReserved)
+{
+	return 1;
+}
+
+long double binpow (long double a, int k, int n)
+{
+	if (k == 0)
+		return 1;
+	if (k % 2 == 1)
+		return binpow (a, k-1, n) * a;
+	else {
+		long double b = binpow (a, k/2, n);
+		return b * b;
+	}
+}
+
+char* checkInput(int n, int arg)
+{
+	if(n < 0 || arg < 0)
+		return "Входные данные должны быть положительными\n";
+	if(binpow(2, binpow(2,arg, n), n) - 1 < n)
+		return "Количество аргументов не соответствует функции\n";
+	return NULL;
+}
+
+extern "C"  __declspec(dllexport) char* TruthTable(int n, int arg)
+{
+	int  temp, size = 0;
+	string str;
+	char *p;
+	p = checkInput(n, arg);
+	if (p)
+		return p;
+	vector<int> a,b;
+	temp = n;
+	while(temp)
+	{
+		a.push_back(temp%2);
+		temp >>= 1;
+	}
+	while(a.size() != binpow(2, arg, n)) a.push_back(0);
+	int count = a.size();
+	reverse(a.begin(), a.end());
+	char c  = 'A';
+	for(int i = 0; i < arg; i++,c++)
+		str += c;
+	str += " Y\n\n";
+	for(int i = 0; i < a.size(); i++)
+	{
+		temp = i;
+		string s;
+		while(temp)
+		{
+			if(temp % 2) s += "1";
+				else s += "0";
+			temp >>= 1;
+		}
+		while(s.size() != arg) s += "0";
+		reverse(s.begin(), s.end());
+		int u = 0, check = 1;
+		str += s;
+		str += ' ';
+		str += (a[i]+'0');
+		str += '\n';
+	}
+	p = new char[str.length()+1];
+	for(int i = 0; i < str.length(); i++)
+		p[i] = str[i];
+	p[str.length()] = '\0';
+	return p;
+}
+
+
+extern "C"  __declspec(dllexport) char* Zhegalkin(int n, int arg)
+{
+	string str;
+	int  temp, size = 0;
+	char *p;
+	p = checkInput(n, arg);
+	if (p)
+		return p;
+	vector<int> a,b;
+	temp = n;
+	while(temp)
+	{
+		a.push_back(temp%2);
+		temp >>= 1;
+	}
+	while(a.size() != binpow(2, arg, n)) a.push_back(0);
+	int count = a.size();
+	reverse(a.begin(), a.end());
+	while(--count != -1)
+	{
+		b.push_back(a[0]);
+		if(a[0] == 1) size = b.size();
+		for(int i = 0; i < count; i++)
+			a[i] ^= a[i+1];
+	}
+
+	for(int i = 0; i < size; i++)
+	{
+		if(!b[i]) continue;
+		temp = i;
+		string s;
+		while(temp)
+		{
+			if(temp % 2) s += "1";
+				else s += "0";
+			temp >>= 1;
+		}
+		while(s.size() != arg) s += "0";
+		reverse(s.begin(), s.end());
+		int u = 0, check = 1;
+		for(char j = 'A'; j < (char)((int)'A'+arg); j++, u++)
+				if(s[u] == '1') {str += j; check = 0;}
+		if(check) str += '1';
+		if(i != size - 1) str += '+';
+	}
+
+	p = new char[str.length()+1];
+	for(int i = 0; i < str.length(); i++)
+		p[i] = str[i];
+	p[str.length()] = '\0';
+	return p;
+}
+
+extern "C"  __declspec(dllexport) char* Linear(int n, int arg)
+{
+	char* s;
+	s = Zhegalkin(n,arg);
+	for(int i = 0; i < strlen(s) - 1; i++)
+		if(s[i] != '+' || s[i+1] != '+') return "Не линейная";
+	return "Линейная";
+}
+
+extern "C"  __declspec(dllexport) char* BuildSKNF(int n, int arg)
+{
+	int  temp, size = 0;
+	string str;
+	char *p;
+	p = checkInput(n, arg);
+	if (p)
+		return p;
+	vector<int> a,b;
+	temp = n;
+	while(temp)
+	{
+		a.push_back(temp%2);
+		temp >>= 1;
+	}
+	while(a.size() != binpow(2, arg, n)) a.push_back(0);
+	reverse(a.begin(), a.end());
+	int chk = 0;
+	for(int i = 0; i < a.size(); i++)
+	{
+		if(a[i])
+			continue;
+		if(chk)
+			str += '^';
+		temp = i;
+		string s;
+		while(temp)
+		{
+			if(temp % 2) s += "1";
+				else s += "0";
+			temp >>= 1;
+		}
+		while(s.size() != arg) s += "0";
+		reverse(s.begin(), s.end());
+		int u = 0, check = 1;
+		str += '(';
+		for(char j = 'A'; j < (char)((int)'A'+arg); j++, u++)
+				if(s[u] != '1')
+				{
+					str += j;
+					if(j != (char)((int)'A'+arg-1)) str += 'v';
+				}
+					else
+					{
+						str += '¬';
+					   str += j;
+						if(j != (char)((int)'A'+arg-1)) str +=  'v';
+					}
+		str += ')';
+    	chk = 1;
+	}
+	p = new char[str.length()+1];
+	for(int i = 0; i < str.length(); i++)
+		p[i] = str[i];
+	p[str.length()] = '\0';
+	return p;
+}
+//---------------------------------------------------------------------------

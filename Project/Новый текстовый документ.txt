@@ -1,0 +1,47 @@
+  private void WriteBox_TextChanged(object sender, EventArgs e)
+        {           
+                if (WriteBox != null && NewText.Text != "печатать?")
+                {
+                    Timer.Enabled = true;
+                    AllElement++;
+                }
+                if (WriteBox.Text == array.Substring(i, 1) && array.Substring(i, 3) != "   ")
+                {
+                    if (i + 1 < array.Length)
+                        i++;
+                    NewText.Text = array.Substring(i, len);
+                    if (i < len)
+                        OldText.Text = array.Substring(0, i);
+                    else
+                        OldText.Text = array.Substring(i - len, len);
+                    RightElement++;
+                }
+                WriteBox.Text = null;
+                if (array.Substring(i, 3) == "   ")
+                {
+                    //Timer.Enabled = false;
+
+                    finish();
+
+                    //OldText.Text = null;
+
+                }
+        }
+
+        private void Timer_Tick(object sender, EventArgs e)
+        {
+            t = t.AddSeconds(1);
+            TimeLabel.Text = t.ToLongTimeString().Substring(2);
+            TimeCounter++;
+
+            /*
+            TimeCounter++;
+            Time1.Text=  ((TimeCounter/60)/10).ToString();
+            Time2.Text = ((TimeCounter/60)%10).ToString();
+            Time3.Text = ((TimeCounter%60)/10).ToString();
+            Time4.Text = (TimeCounter%10).ToString();
+            if (TimeCounter == Time)
+                finish();          
+                */
+
+        }

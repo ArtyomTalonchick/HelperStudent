@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.486,C:\Users\Alex\Desktop\4.2\Libraries\MathLogicFunctions.cpp=C:\Users\Alex\Desktop\4.2\Libraries\TruthTable.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.476,C:\Users\Alex\Desktop\4.2\Libraries\TruthTable.cbproj=C:\Users\Alex\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.378,C:\Users\Alex\Desktop\4.2\Libraries\MathLogicFunctions.cbproj=C:\Users\Alex\Desktop\4.2\Libraries\TruthTable.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.862,=C:\Users\Alex\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.159,C:\Users\Alex\Desktop\4.2\Libraries\TruthTable.cpp=C:\Users\Alex\Documents\RAD Studio\Projects\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

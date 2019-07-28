@@ -1,0 +1,23 @@
+D:\My study\Helper студента\Part2\4.0\Проект 1.0\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\My study\Helper студента\Part2\4.0\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\My study\Helper студента\Part2\4.0\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\My study\Helper студента\Part2\4.0\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\My study\Helper студента\Part2\4.0\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\My study\Helper студента\Part2\4.0\Проект 1.0\obj\Debug\Проект_1._0.ResultFormTest.resources
+D:\My study\Helper студента\Part2\4.0\Проект 1.0\obj\Debug\Helper.csproj.GenerateResource.cache
+D:\My study\Helper студента\Part2\4.0\Проект 1.0\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\My study\Helper студента\Part2\4.0\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\My study\Helper студента\Part2\4.0\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\My study\Helper студента\Part2\4.1\Проект 1.0\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\My study\Helper студента\Part2\4.1\Проект 1.0\obj\Debug\Проект_1._0.Helper.resources
+D:\My study\Helper студента\Part2\4.1\Проект 1.0\obj\Debug\Проект_1._0.Keyboard.resources
+D:\My study\Helper студента\Part2\4.1\Проект 1.0\obj\Debug\Проект_1._0.Properties.Resources.resources
+D:\My study\Helper студента\Part2\4.1\Проект 1.0\obj\Debug\Проект_1._0.ResultForm.resources
+D:\My study\Helper студента\Part2\4.1\Проект 1.0\obj\Debug\Проект_1._0.ResultFormTest.resources
+D:\My study\Helper студента\Part2\4.1\Проект 1.0\obj\Debug\Helper.csproj.GenerateResource.cache
+D:\My study\Helper студента\Part2\4.1\Проект 1.0\obj\Debug\Helper.csproj.CoreCompileInputs.cache
+D:\My study\Helper студента\Part2\4.1\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\My study\Helper студента\Part2\4.1\Проект 1.0\obj\Debug\Проект 1.0.pdb
+D:\My_study\Course_1\Helper студента\Part2\Finish\Проект 1.0\obj\Debug\Helper.csprojAssemblyReference.cache
+D:\My_study\Course_1\Helper студента\Part2\Finish\Проект 1.0\obj\Debug\Проект 1.0.exe
+D:\My_study\Course_1\Helper студента\Part2\Finish\Проект 1.0\obj\Debug\Проект 1.0.pdb

@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0EB5AA39-A2AA-4652-BE4C-D82EA68C78C9}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Проект_1._0</RootNamespace>
+    <AssemblyName>Проект 1.0</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Design.Designer.cs">
+      <DependentUpon>Design.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Typing_ArmRight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Typing_ArmRight.Designer.cs">
+      <DependentUpon>Typing_ArmRight.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Typing_ArmLeft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Typing_ArmLeft.Designer.cs">
+      <DependentUpon>Typing_ArmLeft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Typing_Keyboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Typing_Keyboard.Designer.cs">
+      <DependentUpon>Typing_Keyboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MathLogic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MGiA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Typing_ResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Typing_ResultForm.Designer.cs">
+      <DependentUpon>Typing_ResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test_ResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test_ResultForm.Designer.cs">
+      <DependentUpon>Test_ResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Typing_ResultStoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Typing_ResultStoryForm.Designer.cs">
+      <DependentUpon>Typing_ResultStoryForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test_ChooseText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Typing_ChooseText.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Typing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <EmbeddedResource Include="Typing_ArmRight.resx">
+      <DependentUpon>Typing_ArmRight.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Design.resx">
+      <DependentUpon>Design.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Typing_ArmLeft.resx">
+      <DependentUpon>Typing_ArmLeft.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Typing_Keyboard.resx">
+      <DependentUpon>Typing_Keyboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Typing_ResultForm.resx">
+      <DependentUpon>Typing_ResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test_ResultForm.resx">
+      <DependentUpon>Test_ResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Typing_ResultStoryForm.resx">
+      <DependentUpon>Typing_ResultStoryForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\Helper.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\History1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Hist.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\English3.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\English3.4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\English3_.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\English3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Politology2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft38.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft39.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft40.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft41.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeft42.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmLeftShift.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armRight_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armRight_20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armRight_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\armRight_22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight09.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight37.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight43.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight44.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight45.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight46.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRight47.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ArmRightShift.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ButtonBackImage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FormBackImage.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
